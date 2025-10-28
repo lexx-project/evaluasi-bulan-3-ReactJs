@@ -92,3 +92,5 @@ src/
 ---
 
 Selamat mengeksplor kode & semoga project ini membantu dalam ujian React JS! 🎯
+
+Link Deploy : https://vercel.com/lexx-projects-projects/evaluasi-bulan-3-react-js/GgjfxAFskdW6ddY6RJsGBjBgZvf3
