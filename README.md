@@ -94,3 +94,5 @@ src/
 Selamat mengeksplor kode & semoga project ini membantu dalam ujian React JS! 🎯
 
 Link Deploy : https://vercel.com/lexx-projects-projects/evaluasi-bulan-3-react-js/GgjfxAFskdW6ddY6RJsGBjBgZvf3
+Link Youtube : https://www.youtube.com/watch?v=dL2QX_FBRSg
+Link Gamma : https://lexx-store-cbqf1w8.gamma.site/
